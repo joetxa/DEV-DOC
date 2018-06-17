@@ -173,3 +173,14 @@ All you need to remember is row, column, content.
 ### CSS NEXT (future of css)
 
 * [Visit the site](http://cssnext.io/features/)
+
+### Others
+
+https://stackoverflow.com/
+
+https://www.w3schools.com/
+
+https://css-tricks.com/
+
+http://animista.net/
+
